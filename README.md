@@ -18,6 +18,6 @@ Introduction to Facebook's time series analysis modul **Prophet**: [Jupyter Note
 ---
 
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johntan38)](https://github.com/johntan38/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johntan38&theme=dracula&show_icons=true)](https://github.com/johntan38/github-readme-stats)
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnTan38&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johntan38&layout=compact)](https://github.com/johntan38/github-readme-stats)
